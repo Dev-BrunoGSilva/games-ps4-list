@@ -9,7 +9,7 @@ import puppeteer from 'puppeteer';
     const searchResultSelector = '.devsite-result-item-link';
     await page.waitForSelector(searchResultSelector);
   
-    console.log('The title of this blog post is "%s".', searchResultSelector);
+    console.log('Pegou esse texto =>', searchResultSelector);
 
     await browser.close();
 })

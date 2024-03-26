@@ -1,1 +1,0 @@
-'post-title entry-title'

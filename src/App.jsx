@@ -6,8 +6,13 @@ function App() {
   const [data, setData] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
 
+  // useEffect(() => {
+  //   axios.get('../dist/data.json')
+  //     .then(response => setData(response.data))
+  //     .catch(error => console.error('Error fetching JSON: ', error));
+  // }, []);
   useEffect(() => {
-    axios.get('../dist/data.json')
+    axios.get('../src/data/data.json')
       .then(response => setData(response.data))
       .catch(error => console.error('Error fetching JSON: ', error));
   }, []);

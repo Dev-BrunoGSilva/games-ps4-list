@@ -1,21 +1,22 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Card from './components/card';
+import dataArchive from '../src/data/data.json'
 
 function App() {
   const [data, setData] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
 
-  // useEffect(() => {
+   useEffect(() => {
+     setData(dataArchive);
   //   axios.get('../dist/data.json')
   //     .then(response => setData(response.data))
   //     .catch(error => console.error('Error fetching JSON: ', error));
-  // }, []);
-  useEffect(() => {
-    axios.get('../src/data/data.json')
-      .then(response => setData(response.data))
-      .catch(error => console.error('Error fetching JSON: ', error));
   }, []);
+//  useEffect(() => {
+   // axios.get('../src/data/data.json')
+//      .then(response => setData(response.data))
+//      .catch(error => console.error('Error fetching JSON: ', error))  }, []);
 
   const filteredData = data ? data.filter(item =>
     item.title.toLowerCase().includes(searchTerm.toLowerCase())

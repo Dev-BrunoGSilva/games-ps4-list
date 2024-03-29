@@ -2,23 +2,32 @@ import puppeteer from 'puppeteer';
 import fs from 'fs';
 
 (async () => {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
-
-    await page.goto('https://dlpsgame.com/list-all-game-ps2/');
-
-    const searchResultSelector = '.listing-item';
-    await page.waitForSelector(searchResultSelector);
-
-    const itemNodeList = await page.$$('.listing-item a');
-
     const results = [];
 
-    for (const itemElement of itemNodeList) {
-        const title = await (await itemElement.getProperty('textContent')).jsonValue();
-        const link = await (await itemElement.getProperty('href')).jsonValue();
+    let currentPage = 1;
+    const maxPages = 2;
 
-        results.push({ title, link });
+    while (currentPage <= maxPages) {
+        const url = `https://dlpsgame.com/category/ps2/page/${currentPage}/`;
+        await page.goto(url);
+
+        const searchResultSelector = '.post-title';
+        await page.waitForSelector(searchResultSelector);
+
+        const titlesNodeList = await page.$$('.post-title a');
+        const imagesNodeList = await page.$$('.post-body img');
+
+        for (let i = 0; i < titlesNodeList.length; i++) {
+            const title = await (await titlesNodeList[i].getProperty('textContent')).jsonValue();
+            const link = await (await titlesNodeList[i].getProperty('href')).jsonValue();
+            const imgSrc = await (await imagesNodeList[i].getProperty('src')).jsonValue();
+
+            results.push({ title, link, imgSrc });
+        }
+
+        currentPage++;
     }
 
     await browser.close();

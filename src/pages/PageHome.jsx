@@ -31,7 +31,7 @@ export default function PageHome() {
   const currentItems = filteredData.slice(0, currentPage * itemsPerPage);
 
   return (
-    <div className='bg-sky-800 w-screen h-screen'>
+    <div className='bg-sky-800 w-screen h-full'>
       <div className="px-4 pt-4 w-full">
         <input
           type="text"

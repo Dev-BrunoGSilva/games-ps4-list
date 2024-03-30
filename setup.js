@@ -2,15 +2,15 @@ import puppeteer from 'puppeteer';
 import fs from 'fs';
 
 (async () => {
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
     const results = [];
 
     let currentPage = 1;
-    const maxPages = 2;
+    const maxPages = 1;
 
     while (currentPage <= maxPages) {
-        const url = `https://dlpsgame.com/category/ps2/page/${currentPage}/`;
+        const url = `https://dlpsgame.com/category/ps4/page/${currentPage}/`;
         await page.goto(url);
 
         const searchResultSelector = '.post-title';
@@ -40,7 +40,7 @@ import fs from 'fs';
         fs.mkdirSync(directory);
     }
 
-    const filePath = `${directory}/data.json`;
+    const filePath = `${directory}/data-ps4.json`;
 
     fs.writeFile(filePath, jsonData, 'utf8', (err) => {
         if (err) {

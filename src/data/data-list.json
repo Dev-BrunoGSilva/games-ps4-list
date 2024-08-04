@@ -1,0 +1,8690 @@
+[
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "{{playable}}",
+    "euro": "Playable",
+    "american": "The Game works perfect without any noticeable errors.\nIt works exactly like when you play it on real PS2 Hardware.",
+    "description": ""
+  },
+  {
+    "game": "{{minorissues}}",
+    "euro": "Minor Issues",
+    "american": "The Game has some small issues like small flickering, frame drops or glitching graphics.\nBut the Game itself works fine and you are able to complete the Game successfully without any huge disadvantages for your in-game-progress.",
+    "description": ""
+  },
+  {
+    "game": "{{majorissues}}",
+    "euro": "Major Issues",
+    "american": "The Game has several stronger issues like stronger flickering, massive frame drops and not only the graphics are glitching, but the Game itself too.\nIt works, but it will be a pain for both of your Gaming experience, as probably for your PS4 itself.",
+    "description": ""
+  },
+  {
+    "game": "{{unplayable}}",
+    "euro": "Unplayable",
+    "american": "The Game crashes after some in-game-progress (randomly), you can't change Discs when prompted, the screen keeps black or you can't even start the Game at all.\nYou can't complete the Game successfully to the end even when both the Graphics and Framerates working fine and/or the PS4 will freeze/shutdown by itself.",
+    "description": ""
+  },
+  {
+    "game": "{{notavailable}}",
+    "euro": "Not Available",
+    "american": "Only for those Game Titles, which weren't released in certain Regions (for example: Games for the Japanese Market [NTSC-J], which didn't see a \"Western Release\").",
+    "description": ""
+  },
+  {
+    "game": "{{official}}",
+    "euro": "PS2 Classics",
+    "american": "The Game has been released as a official \"PS2 Classics on PS4\" Title from Sony available at the PlayStation Store.",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": ".hack//Infection",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": ".hack//Mutation",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": ".hack//Outbreak",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": ".hack//Quarantine",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "10 Pin: Champions Alley",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "100 Bullets [NTSC-U/C Prototype Version]",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "187: Ride or Die",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "1945 I&II The Arcade Games",
+    "euro": "Major Issues",
+    "american": "Not Available",
+    "description": "Major Issues"
+  },
+  {
+    "game": "10,000 Bullets",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "18 Wheeler: American Pro Trucker",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "24: The Game",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "25 to Life",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "4x4 Evolution",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "50 Cent: Bulletproof",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "7 Sins",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "FCEUmm PS2 (Homebrew)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "GameShark 2: Video Game Enhancer (Homebrew)",
+    "euro": "Not Available",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Gran Turismo 2000 (PlayStation Festival 2000 [Taikenban])",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Karat Pro Action Replay: Best Price Soku Kouryaku PS2-you Vol. 2\nＫＡＲＡＴ　プロアクションリプレイ　ＢＥＳＴ　ＰＲＩＣＥ！　速攻略 ［ＰＳ２用］ Ｖｏｌ．２)",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Karat PS2-you Pro Action Replay 2",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Karat PS PS2-you Pro Action Replay CDX2\nＫＡＲＡＴ PS/PS2用　プロアクションリプレイ　CDX２",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Memory Manager Plus (Homebrew)",
+    "euro": "Not Available",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "POPStarter (Homebrew)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "PS2 Demo Disc [PBPX-95514]",
+    "euro": "Unplayable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Ace Combat: The Belkan War",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Ace Combat 4: Shattered Skies",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Ace Combat 5: The Unsung War",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Homebrew iso (NTSC-U/C version) cannot save or load due to memory card corruption. Use custom config to fix terrain rendering. Clouds using shaders have the wrong shader applied, upscaler issue, remove up2x2 render to fix. Check Emulator Configuration for additional details.",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Ace Lightning",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Activision Anthology",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "ADK DAMASHII",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "The Adventures of Cookie & Cream",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Adventures of Darwin (Darwin)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Adventure of Tokyo Disney Sea",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Aero Elite - Combat Academy",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Aeon Flux",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Agassi Tennis Generation",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Age of Empires II The Age of Kings",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Agressive Inline",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "AirForce Delta Strike",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "AirBlade",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Akira Psycho Ball",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Aqua Teen Hunger Force: Zombie Ninja Pro-Am",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Alien Hominid",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Aliens in the Attic",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Aliens vs Predator: Extinction",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Alone in the Dark",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Alone in the Dark: The New Nightmare",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Alpine Racer 3",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Altered Beast",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Alvin and the Chipmunks",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "American Idol (Pop Idol)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Amplitude",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Angelique Étoile",
+    "euro": "?",
+    "american": "?",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Angelique Trois",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Animaniacs: The Great Edgar Hunt",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Antz Extreme Racing",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ape Escape 2",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Ape Escape 3",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ape Escape: Pumped & Primed",
+    "euro": "Not Available",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Aqua Aqua",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Arc the Lad: Twilight of the Spirits",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Arcana Heart",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Arctic Thunder",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Area 51",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Armored Core 2",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Armored Core 2: Another Age",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Armored Core 3",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Silent Line: Armored Core (Armored Core 3: Silent Line)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Armored Core Nexus",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Armored Core Last Raven",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Army Men: Air Attack 2",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Army Men: RTS",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Army Men: Sarge's Heroes 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Army Men: Soldiers of Misfortune",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "ART OF FIGHTING ANTHOLOGY",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Arthur & the Minimoys",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Atelier Iris: Eternal Mana",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Atelier Iris 2: The Azoth of Destiny",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Atelier Iris 3: Grand Phantasm",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Atelier Marie & Elie: The Alchemist of Salburg",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Athens 2004",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "ATV Offroad Fury 3",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "ATV Quad Power Racing 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Auto Modellista",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Avatar - The Last Airbender",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "B-Boy",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Backyard Wrestling : Don't Try This At Home",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Backyard Wrestling 2: There Goes The Neighborhood",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Baldur's Gate : Dark Alliance",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Baldur's Gate : Dark Alliance II",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Bard's tale, The",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Baroque",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Batman - Rise of Sin Tzu",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Batman - Vengeance",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Batman Begins",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Battlefield 2: Modern Combat",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Battle Engine Aquila",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Battle Stadium D.O.N",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Beat Down: Fists of Vengeance",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Beatmania IIDX 9th Style",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Beatmania IIDX 11: IIDX RED",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Beatmania IIDX 15: DJ Troopers",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Beatmania IIDX 16: EMPRESS Premium Best Disc",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "BEN 10: ALIEN FORCE",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ben 10 Alien Force: Vilgax Attacks",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Ben 10: Protector of Earth",
+    "euro": "?",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Ben 10 Ultimate Alien: Cosmic Destruction",
+    "euro": "?",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Berserk: Millennium Falcon Hen Seima Senki no Shō",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Beyond Good & Evil",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Big Mutha Truckers",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Big Mutha Truckers 2",
+    "euro": "Unplayable",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "BLACK",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Blade 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Bleach: Blade Battlers 2nd",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Bleach: Hanatarishi Yabuu",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Blitz - The League",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Blood Will Tell: Tezuka Osamu's Dororo",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "BloodRayne",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "BloodRayne 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Bloody Roar 3",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Bloody Roar 4",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "BlowOut",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "BMX XXX",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Bode Miller Alpine Skiing",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Bolt (Disney Bolt)",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Bomberman Hardball",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Bomberman Kart",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Bomber Man Land 2",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Bouncer, The",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Bratz Diamondz",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Bratz Girlz Really Rock",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Bratz The Movie",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Bratz Rock Angelz",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Brave - The search for spirit dancer",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Breath of Fire V: Dragon Quarter",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Britney's Dance Beat",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Broken Sword: The Sleeping Dragon",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "Brothers in Arms: Earned in Blood",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Brothers in Arms: Road to Hill 30",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Buffy the Vampire Slayer: Chaos Bleeds",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Bujingai: The Forsaken City",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Bully (Canis Canem Edit)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Burnout",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Burnout 2: Point of Impact",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Burnout 3: Takedown",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Burnout Dominator",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Burnout Revenge",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Cat in The Hat",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Capcom Classics Collection",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Capcom Fighting Evolution",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Capcom vs. SNK 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Captain Tsubasa",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Call of Duty: Finest Hour",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Call of Duty 2: Big Red One",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Call of Duty 3",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Call of Duty: World at War - Final Fronts",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Cars",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Cars: Mater-National Championship",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "CART Fury Championship Racing",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Cartoon Network Racing",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Castle Shikigami II: War of the Worlds",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Castlevania: Curse of Darkness",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Castlevania: Lament of Innocence",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Castleween (Spirits & Spells)",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "Chaos Field: New Order",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Chaos Legion",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Charlie and the Chocolate Factory",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Choaniki: Sei Naru Protein Densetsu",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "The Chronicles of Narnia: Prince Caspian",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Champions: Return to Arms",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Chulip",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Clock Tower 3",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Club Football 2005: Arsenal FC",
+    "euro": "Major Issues",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Club Football: Arsenal FC",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Code of the Samurai",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Cold Fear",
+    "euro": "Unplayable",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Cold Winter",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Colosseum: Road to Freedom",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E.",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Colin McRae Rally 3",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Colin McRae Rally 04",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Colin McRae Rally 2005",
+    "euro": "Unplayable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Commandos: Strike Force",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Commandos 2: Men Of Courage",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Conflict: Desert Storm",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Conflict: Desert Storm 2",
+    "euro": "Unplayable",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Conflict: Global Storm",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Conflict: Vietnam",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Constantine",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Contra: Shattered Soldier",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Coraline",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Corvette",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Cowboy Bebop: Tsuioku no Serenade",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Crash: Mind over Mutant",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Crash Bandicoot: The Wrath of Cortex",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Crash 'N' Burn",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Crash Nitro Kart",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Crash of the Titans",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Crash Twinsanity",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Crash Tag Team Racing",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Crazy Taxi",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Crime Life: Gang Wars",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Crimson Sea 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Crimson Tears",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Critical Velocity",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Crouching Tiger, Hidden Dragon (Tiger and Dragon)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Crusty Demons",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Culdcept",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Dance Dance Revolution 6thMix DDRMAX",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Dance Dance Revolution 7thMix DDRMAX2",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Dance Dance Revolution DDR Festival",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Dance Dance Revolution Extreme",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Dance Dance Revolution Extreme 2",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Dance Dance Revolution Party Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Dance Dance Revolution SuperNOVA",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Dance Dance Revolution SuperNOVA 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Dance Dance Revolution X",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dance Dance Revolution X2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dark Cloud",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Dark Chronicle (Dark Cloud 2)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Dark Summit",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Darkwatch",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Dave Mirra Freestyle BMX 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "David Beckham Soccer",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Dawn of Mana",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dead or Alive 2: Hardcore",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Dead to Rights",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Dead to Rights 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Death by Degrees",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Def Jam - Fight for NY",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Def Jam - Vendetta",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Delta Force Black Hawk Down",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Destroy All Humans!",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Destroy All Humans! 2",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Destruction Derby Arenas",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Deus Ex: The Conspiracy",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Devil Kings",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Devil May Cry",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Devil May Cry 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Devil May Cry 3: (Dante's Awakening) [Special Edition]",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Di Gi Charat Fantasy Excellent (Di Gi Charat Fantasy Nyo)",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Digimon Rumble Arena 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Digimon World 4",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Digimon World Data Squad",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dirge of Cerberus: Final Fantasy VII",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Disaster Report (SOS: The Final Escape)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Disgaea: Hour of Darkness",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disgaea 2: Cursed Memories",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disney's Chicken Little",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disney's Dinosaur",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "Disney's Donald Duck: Goin' Quackers (Donald Duck: Quack Attack)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disney's Meet the Robinsons",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Disney's Peter Pan: The Legend of Never-Land",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Disney's Piglet's Big Game",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disney's PK - Out of the Shadows",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Disney's Stitch: Experiment 626",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Disney's Tarzan: Freeride (Disney's Tarzan: Untamed)",
+    "euro": "Major Issues",
+    "american": "Minor Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Disney's The Haunted Mansion",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disney/Pixar Ratatouille",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disney/Pixar Toy Story 3",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Disney/Pixar The Incredibles",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Disney Princess - Enchanted Journey",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "DoDonPachi DaiOuJou",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Don 2 - The Game",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Dora the Explorer: Dora Saves the Snow Princess",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Dora the Explorer: Dora Saves the Crystal Kingdom",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Downhill Domination",
+    "euro": "Major Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Ball Z: Budokai",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Dragon Ball Z: Budokai 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Ball Z: Budokai 3 (Collector's Edition)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Ball Z: Budokai Tenkaichi 2",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Dragon Ball Z: Infinite World",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Ball Z: Sagas",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Blaze",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Dragon Quest V: Tenkuu no Hanayome",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Dragon Quest VIII: Journey of the Cursed King",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Dragons Lair 3D: Special Edition",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Drakan: The Ancients' Gates",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Drakengard",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Drakengard 2",
+    "euro": "Major Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks & Aardman Flushed Away",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks Kung Fu Panda",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks Madagascar",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks Madagascar: Escape 2 Africa (Madagascar: Escape 2 Africa)",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks Shrek Smash n' Crash Racing",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks Shrek SuperSlam",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks Shrek the Third",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "DreamWorks Bee Movie Game",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Drive to Survive (Mashed: Fully Loaded)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Driving Emotion Type-S",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Driver - Parallel Lines (AKA. Driver 4 - Parallel Lines in Japan by UbiSoft)",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Driv3r (Driver 3)",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Dual Hearts",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Duel Masters",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dukes of Hazzard (The): Return of the General Lee",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty Tactics",
+    "euro": "?",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty Tactics 2",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty Warriors 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty Warriors 3",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 3 Extreme legends",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 4",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 4 Extreme legends",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 4 Empires",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 5",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 5 Extreme legends",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 5 Empires",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Dynasty warriors 6",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "E.O.E: Eve of Extinction",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "ESPN-NBA2K5",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Ecco the Dolphin: Defender of the Future",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Echo Night: Beyond",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ed, Edd n Eddy: The Mis-Edventures",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Endgame",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "England International Football",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Enter the Matrix",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Enthusia: Professional Racing",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ephemeral Fantasia",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Eragon",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Espgaluda",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "ESPN NFL 2K5",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Eternal Ring",
+    "euro": "?",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Eternal Poison",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Evangelion: Jo",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Everblue 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Evergrace",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Everybody's Tennis (Hot Shots Tennis)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Evil Dead: A Fistful of Boomstick",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Evil Dead: Regeneration",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Extermination",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Ex Zeus",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Extreme-G 3",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Eye Toy Play",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "F1 2001",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "F1 2002",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "F1 Career Challenge",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "F1 Championship Season 2000",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "F1 Racing Championship",
+    "euro": "Not Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "F355 Challenge",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "FAHRENHEIT (INDIGO PROPHECY)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Fallout - Brotherhood of Steel",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Fairly OddParents - Breakin' da Rules",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Fairly OddParents: Shadow Showdown",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Fantastic 4 (Fantastic Four)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fantastic Four: Rise of the Silver Surfer",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "FantaVision",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Fast and The Furious, The",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "FATAL FURY BATTLE ARCHIVES VOL. 1",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "FATAL FURY BATTLE ARCHIVES VOL. 2",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Fatal Frame",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fatal Frame II: Crimson Butterfly",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fatal Frame III: The Tormented",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fate/Unlimited Codes",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "FIFA 06\nFIFA Soccer 06",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "FIFA 07",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA 08\nFIFA Soccer 08",
+    "euro": "Available",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA 09\nFIFA Soccer 09",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "FIFA 10\nFIFA Soccer 10",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA 11\nFIFA Soccer 11",
+    "euro": "Minor Issues",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA 12",
+    "euro": "Minor Issues",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "FIFA 13",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA 14",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "FIFA 2001\nFIFA 2001: Major League Soccer\nFIFA 2001: World Championship",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA Football 2002",
+    "euro": "Major Issues",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA Football 2003\nFIFA Soccer 2003",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA Football 2004\nFIFA Soccer 2004",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA Football 2005\nFIFA Soccer 2005",
+    "euro": "Available",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "FIFA Street",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "FIFA Street 2",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Fight Club",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Fighter Maker 2",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Fight Night 2004",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fight Night: Round 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fight Night: Round 3",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Final Fantasy X",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Final Fantasy XI",
+    "euro": "Not Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Final Fantasy XII (International Zodiac Job System)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Final Fantasy X-2",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Final Fight: Streetwise",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Fire Pro Wrestling Returns",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fire Pro Wrestling Z",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Fireblade",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Fisherman's Challenge",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Flame of Recca: Final Burning (Rekka no Honō: FINAL BURNING)\nAnime Battle Rekka no Honō: FINAL BURNING (アニメバトル 烈火の炎 FINAL BURNING)",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "FlatOut",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "FlatOut 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Flintstones: Bedrock Racing",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "The Flintstones in Viva Rock Vegas",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Ford Racing 3",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Ford Street Racing (Ford Bold Moves Street Racing)",
+    "euro": "Minor Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Forever Kingdom: Evergrace 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Forgotten Realms: Demon Stone",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Formula One 04",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Formula One 05",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Formula One 06",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Formula One 2001",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Formula One 2002",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Formula One 2003",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Freedom Fighters",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Freekstyle",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Frequency",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Frogger: Ancient Shadows",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Frogger: The Great Quest",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Front Mission V",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Front Mission 4",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fullmetal Alchemist and the Broken Angel",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fullmetal Alchemist 2 Curse of the Crimson Elixir",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Fullmetal Alchemist: Dream Carnival",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Fur Fighters: Viggo's Revenge",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Futurama",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "FU'UN SUPER COMBO",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "G1 Jockey 3",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Gadget Racers",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Galerians: Ash",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Garfield: Lasagna World Tour",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Garfield: Saving Arlene",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Garou: Mark of the Wolves",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Gauntlet: Dark Legacy",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Gauntlet: Seven Sorrows",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "G-Force",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Genji: Dawn of the Samurai",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "The Getaway",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "The Getaway: Black Monday",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Ghost in the Shell: Stand Alone Complex",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Ghostbusters",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ghost Rider",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ghosthunter",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "GigaWing Generations",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Gitaroo Man (Gitaroo-Man)",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Global Defense Force",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Go, Diego, Go! Safari Rescue",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "God Hand",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "God of War",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "God of War II",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Playable"
+  },
+  {
+    "game": "Godzilla: Save the Earth",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Godzilla: Unleashed",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Go Kart Rally",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Goldeneye: Rogue Agent",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Gradius 3 & 4",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Gradius V",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Gran Turismo Concept (2002 Tokyo-Geneva)",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Gran Turismo 3: A-Spec",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Gran Turismo 4 Prologue",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Gran Turismo 4",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Grand Prix Challenge",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Grand Theft Auto III",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Available"
+  },
+  {
+    "game": "Grand Theft Auto: San Andreas",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Available"
+  },
+  {
+    "game": "Grand Theft Auto: Vice City",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Available"
+  },
+  {
+    "game": "Grand Theft Auto: Vice City Stories",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Grand Theft Auto: Liberty City Stories",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Grandia Xtreme",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Grandia II",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Grandia III",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Gregory Horror Show",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "GrimGrimoire",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Growlanser Generations / Growlanser 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Growlanser Generations / Growlanser 3",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Guilty Gear: Isuka",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Guilty Gear X",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Guilty Gear X2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Guilty Gear X2 Reloaded: The Midnight Carnival",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Guilty Gear XX Accent Core",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Guilty Gear XX Accent Core Plus",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Guitar Hero",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Guitar Hero II",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Guitar Hero III",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Gun",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Gungrave",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Gungrave Overdose",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "GunGriffon Blaze",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Guy Game, The",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Half-Life",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Hard Hitter Tennis (Hard Hitter 2)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Harry Potter and the Chamber of Secrets",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Harry Potter and the Goblet of Fire",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Harry Potter and the Half-Blood Prince",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Harry Potter and the Order of the Phoenix",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Harry Potter: Quidditch World Cup",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Harry Potter and the Philosopher's Stone",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Harry Potter and the Prisoner of Azkaban",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Harvest Moon: A Wonderful Life (Special Edition)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Harvest Moon: Save the Homeland",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Haunting Ground",
+    "euro": "Major Issues",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Hello Kitty: Roller Rescue",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Headhunter",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Headhunter Redemption",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Heatseeker",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Heracles: Battle With The Gods",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Heracles: Chariot Racing",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Herdy Gerdy",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Heroes of the pacific",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Homura",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "High Heat Major League Baseball 2002",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The History Channel: Battle for the Pacific",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "History Civil War: Secret Missions",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Hitman: Silent Assassin",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Hitman: Contracts",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Hitman: Blood Money",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "The Hobbit (The Hobbit: The Prelude to the Lord of the Rings)",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Hokuto no Ken: Shinpan no Sōsōsei Kengō Retsuden",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Hot Wheels: World Race",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Hot Wheels: Stunt Track Challenge",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Hot Wheels: Beat That",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Hulk",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Hudson Selection Volume 1: Cubic Lode Runne",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Hudson Selection Volume 2: Star Soldier",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Hudson Selection Volume 3: Bonk!",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Hudson Selection Volume 4: Adventure Island",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Hunter the Reckoning: Wayward",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "HSX: Hypersonic.Xtreme",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Hyper Street Fighter II: The Anniversary Edition",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Ibara",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Ice Age 2: Meltdown",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Ichigeki Sacchuu!! HoiHoi-San",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "ICO",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "IHRA Drag Racing",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "IHRA Drag Racing 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Impossible Mission",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "In the Groove",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Incredible Hulk: Ultimate Destruction",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Indiana Jones and the Emperor's Tomb",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Indiana Jones and the Staff of Kings",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Initial D Special Stage",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Innocent Life: A Futuristic Harvest Moon",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "InuYasha: Feudal Combat",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "InuYasha: Secret of the Cursed Mask",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Playable"
+  },
+  {
+    "game": "I-Ninja",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Iridium Runners",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Iron Man (Iron Man: The Official Videogame)",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Jackass: The Game",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Jade Cocoon 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Jackie Chan Adventures",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Jak and Daxter: The Precursor Legacy",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "PAL Custom Image graphical glitches, framerate problems, Maybe some issues could be fixed with a custom Emulation config or patch",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Jak II: Renegade",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "PAL custom image doesn't boot past the PS2 logo",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Jak 3",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "PAL Custom Image experiences framerate issues during tutorial area",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Jak X: Combat Racing",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Jak and Daxter: The Lost Frontier",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "James Bond 007: Agent Under Fire",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Available"
+  },
+  {
+    "game": "James Bond 007: Everything or Nothing",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "James Bond 007: From Russia with Love",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "James Bond 007: Nightfire (007: Nightfire)",
+    "euro": "Unplayable",
+    "american": "Major Issues",
+    "description": "Available"
+  },
+  {
+    "game": "James Bond 007: Quantum of Solace (007: Quantum of Solace)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Jaws Unleashed",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Jimmy Neutron: Boy Genius",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Juiced",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Juiced 2: Hot Import Nights",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Judge Dredd: Dredd vs. Death",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Jumper: Griffin's Story",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Just Cause",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Jurassic: The Hunted (Jurassic Hunter) [Jurassic: The Hunter]",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Jurassic park: Operation genesis",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Kaan: Barbarian's Blade",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Kaena",
+    "euro": "?",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Kamen Rider Blade",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Kamen Rider Kabuto",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Kamen Rider 555",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Kao the Kangaroo: Round 2",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Kappa no Kai-kata: How to Breed Kappas",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Katamari Damacy",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Kelly Slater's Pro Surfer (Kelly Slater's Pro Surfer 2003)",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Kengo - Master of Bushido",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Kengo 3",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Killer7",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Kill Switch (kill.switch)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Killzone",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Kim Possible: What's the Switch",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Kinetica",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "King of Colloseum 2",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "The King of Fighters: '94 Re-Bout",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: '98 Ultimate Match",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "The King of Fighters: 2000",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: 2002 Unlimited Match",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "The King of Fighters: 2002 Unlimited Match [Tougeki Ver.]",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: 2003",
+    "euro": "Playable",
+    "american": "Major Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "The King of Fighters: Maximum Impact (KOF Maximum Impact)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: Maximum Impact 2 (The King of Fighters 2006)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: Maximum Impact Regulation-A",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: NeoWave",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: NESTS Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "The King of Fighters: Orochi Collection\n(The King of Fighters Collection: The Orochi Saga)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "The King of Fighters: XI",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The King of Route 66",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Kingdom Hearts",
+    "euro": "Minor Issues",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "King's Field: The Ancient City",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Kingdom Hearts: Re:Chain of Memories",
+    "euro": "?",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Kingdom Hearts II [Final Mix +]",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Klonoa 2: Lunatea's Veil",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Knights of the Temple: Infernal Crusade",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Knockout Kings 2001",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Knockout Kings 2002",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Kuma Uta",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Kuon",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "L.A. Rush",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Le Avventure di Lupin III - Lupin la Morte, Zenigata l'Amore",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Le Avventure di \"Lupin III\" - Il tesoro del Re Stregone",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Largo Winch - Empire Under Threat",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Legacy of Kain: Soul Reaver 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Legacy of Kain: Blood Omen 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Legacy of Kain: Defiance",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Legaia 2: Duel Saga",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Legend of Spyro: Dawn of the Dragon, The",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Legends of Wrestling II",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Lego Batman: The Videogame",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Lego Racers 2",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Lego Indiana Jones: The Original Adventures",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Lego Star Wars: The Video Game",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Lego Star Wars II: The Original Trilogy",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Leisure Suit Larry: Magna Cum Laude",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Le Mans 24 Hours (2000)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Lemmings",
+    "euro": "Unplayable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Life Line",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Looney Tunes: Acme Arsenal",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Looney Tunes: Back in Action",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Looney Tunes: Sheep Raider",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Looney Tunes: Space Race",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Lord of the Rings: Aragorn's Quest, The",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Lord of the Rings: The Fellowship of the Ring, The",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Lord of the Rings: The Third Age",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Lord of the Rings: The Return of the King, The",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Madden NFL 2002",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Madden NFL 2003",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Madden NFL 2004",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Madden NFL 2005",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Madden NFL 2006",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Madden NFL 2007",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Madden NFL 2008",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Madden NFL 12",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Made Man",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mafia",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Magna Carta: Tears of Blood",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Maken Shao: Demon Sword",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Mana Khemia 2: Fall of Alchemy",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Manhunt",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Manhunt 2",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "The Mark of Kri",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Marc Ecko's Getting Up: Contents Under Pressure",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Marvel Nemesis: Rise of the Imperfects",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Marvel Ultimate Alliance",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Marvel Ultimate Alliance 2",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Mashed: Drive to Survive",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Mashed: Fully Loaded",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Mat Hoffman's Pro BMX 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Matrix, The: Path of Neo",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Max Payne",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Max Payne 2: The Fall of Max Payne",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Maximo: Ghosts to Glory",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Maximo vs. Army of Zin",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "McFarlane's Evil Prophecy",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "MDK 2: Armageddon",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Medal of Honor: Frontline",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Medal of Honor: Rising Sun",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Medal of Honor: European Assault",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Medal of Honor: Vanguard",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mega Man Anniversary Collection",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mega Man X7",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Mega Man X8 (Megaman X8)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Mega Man X Collection",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mega Man X Command Mission",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Melty Blood Actress Again",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Metal Arms: Glitch in the System",
+    "euro": "Major Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Metal Gear Solid 2: Sons of Liberty",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Metal Gear Solid 2: Substance",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Metal Gear Solid 3: Snake Eater",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Metal Gear Solid 3: Subsistence",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Metal Saga",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Metal Slug 3D",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Metal Slug 6",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Metal Slug Anthology",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "MetropolisMania 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mercenaries - Playground of Destruction",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Mercenaries 2 - World in Flames",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Mercury Meltdown Remix",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Michigan: Report From Hell",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Micro Machines V4",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Midnight Club: Street Racing",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Midnight Club ll",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Midnight Club 3: DUB Edition",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Midnight Club 3: DUB Edition Remix",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Midway Arcade Treasures",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Midway Arcade Treasures 2",
+    "euro": "?",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Midway Arcade Treasures 3",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Minority Report: Everybody Runs",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mission: Impossible: Operation Surma",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Mister Mosquito",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Mobile Light Force 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mobile Suit Gundam: Encounters in Space",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mobile Suit Gundam: Federation vs Zeon",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mojo!",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mojib-Ribbon",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Monopoly",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Monster Attack",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Monster House",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Monster Hunter",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Monster Hunter 2dos",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Monster Lab",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Monster Rancher 3",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Monsters inc",
+    "euro": "?",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Monsters vs. Aliens",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Mortal Kombat: Armageddon",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Mortal Kombat: Deadly Alliance",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mortal Kombat: Deception",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mortal Kombat: Shaolin Monks",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Motocross Mania 3",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "MotoGP",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "MotoGP 2",
+    "euro": "?",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "MotoGP 3",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "MotoGP 4",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "MotoGP 08",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "MotorStorm: Arctic Edge",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mr Golf",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "MS Saga: A New Dawn",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "MTX Mototrax",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Mummy Returns, The",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Music 3000",
+    "euro": "Unplayable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Musashi: Samurai Legend (Musashiden II: Blade Master)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mushihimesama",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "MVP Baseball 2005",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "MX Unleashed",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "MX Superfly",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "MX vs. ATV Unleashed",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "MX vs. ATV Untamed",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Mystic Heroes",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "My Street",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "NamCollection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Namco Museum",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Namco Museum - 50th Anniversary",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Namco X Capcom",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Nanobreaker",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "NARC",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Naruto: Uzumaki Chronicles",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Naruto: Uzumaki Chronicles 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Naruto: Ultimate Ninja",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Naruto: Ultimate Ninja 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Naruto: Ultimate Ninja 3",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Naruto Shippuden: Ultimate Ninja 4",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Naruto Shippuden: Ultimate Ninja 5",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "NASCAR 06: Total Team Control",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR 07",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "NASCAR 08",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR 09",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR 2001",
+    "euro": "Not Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR 2005: Chase for the Cup",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR: Dirt to Daytona",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR Heat 2002",
+    "euro": "Not Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR Thunder 2002",
+    "euro": "Not Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR Thunder 2003",
+    "euro": "Not Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "NASCAR Thunder 2004",
+    "euro": "Not Available",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "NBA JAM 2004",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "NBA Street: Volume 1",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "NBA Street: Volume 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "NBA Street: Volume 3",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "NCAA Football 11",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Need for Speed: Carbon",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Need for Speed: Most Wanted",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Need for Speed: Hot Pursuit 2",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Need for Speed: ProStreet",
+    "euro": "Unplayable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Need for Speed: Undercover",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Available"
+  },
+  {
+    "game": "Need for Speed: Underground",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Need for Speed: Underground 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Neo Contra",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "NeoGeo Battle Coliseum",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Neopets: The Darkest Faerie",
+    "euro": "Not Available",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "NFL 2K3",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "NFL Blitz 2003",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "NFL Head Coach",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "NFL Street",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "NFL Street 2",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "NHL 08",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "NHL 04",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Nicktoons: Attack of the Toybots (SpongeBob and Friends: Attack of the Toybots)",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Nicktoons Unite (SpongeBob and Friends Unite)",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Nickelodeon Barnyard",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "The Nightmare of Druaga: Fushigino Dungeon",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "NiGHTS into Dreams...",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Nightshade",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Ninja Assault",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "NRA Gun Club",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Obscure",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Obscure 2 The Aftermath",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Odin Sphere",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "OKAGE: Shadow King",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Okami",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "One Piece: Grand Battle",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "One Piece: Pirate's Carnival",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Oni",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Onimusha 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Onimusha 3: Demon Siege",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Onimusha: Dawn of Dreams",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Onimusha: The Blade Warriors",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Onimusha: Warlords",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Operative: No One Lives Forever",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "OutRun 2006: Coast 2 Coast (OutRun 2 SP)",
+    "euro": "Major Issues",
+    "american": "Minor Issues",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Over the Hedge",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Pac-Man Fever",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Pac-Man World 2",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Pac-Man World 3",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Pac-Man World Rally",
+    "euro": "Unplayable",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "PaRappa the Rapper 2",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "PDC World Championship Darts",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Peter Jackson's King Kong",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Phantasy Star Universe",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Phantasy Star Universe: Ambition of the Illuminus",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Phantom Brave",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Pipe Mania",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Pirates: Legend of Black Kat",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Pirates: Legend of the Black Buccaneer",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Pirates of the Caribbean: At World's End",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Pitfall: The Lost Expedition",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "The Plan (Th3 Plan)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Pool Paradise",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Powerdrome",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Power Rangers: Super Legends",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Predator: Concrete Jungle",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Primal",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Prince of Persia: The Sands of Time",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Prince of Persia: The Two Thrones",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Prince of Persia: The Warrior Within",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Prisoner of War",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Pro Evolution Soccer\nWorld Soccer: Winning Eleven 5",
+    "euro": "Major Issues",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 2\nWorld Soccer: Winning Eleven 6",
+    "euro": "Major Issues",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 3\nWorld Soccer: Winning Eleven 7\nWorld Soccer: Winning Eleven 7 International",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 4\nWorld Soccer: Winning Eleven 8\nWorld Soccer: Winning Eleven 8 International",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 5\nWorld Soccer: Winning Eleven 9",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 6\nWorld Soccer: Winning Eleven 10\nWinning Eleven: Pro Evolution Soccer 2007",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 2008\nWorld Soccer: Winning Eleven 2008\nWorld Soccer: Winning Eleven 11",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 2009\nWorld Soccer: Winning Eleven 2009",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Pro Evolution Soccer 2010\nWorld Soccer: Winning Eleven 2010",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 2011\nWorld Soccer: Winning Eleven 2011",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 2012\nWorld Soccer: Winning Eleven 2012",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 2013",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Pro Evolution Soccer 2014",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Project Eden",
+    "euro": "Major Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Project Snowblind",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Psi-Ops: The Mindgate Conspiracy (Psi-Ops: Psychic Operation)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Psychic Force Complete",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Psychonauts",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Psyvariar Complete Edition",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Psyvariar II: Ultimate Final",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Pump It Up Exceed",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "The Punisher",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Puyo Pop Fever",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Puyo Puyo Fever 2",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Puzzle Quest: Challenge of the Warlords",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Q-Ball: Billiards Master",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Quake III Revolution",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "R-Type Final",
+    "euro": "?",
+    "american": "?",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "R: Racing Evolution",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "RAD: Robot Alchemic Drive",
+    "euro": "Not Available",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Radiata Stories",
+    "euro": "Not Available",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Radirgy Precious",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Raiden III",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Rampage: Total Destruction",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Ratchet & Clank",
+    "euro": "Major Issues",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Ratchet & Clank: Going Commando (Ratchet & Clank 2: [Locked and Loaded])",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Ratchet & Clank: Up Your Arsenal (Ratchet & Clank 3)",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Ratchet: Gladiator (Ratchet: Deadlocked) [Ratchet & Clank 4]",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Ratchet & Clank: Size Matters (Ratchet & Clank 5)",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Raw Danger!",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Rayman M (Rayman Arena NTSC)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Rayman 2: Revolution",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Rayman 3: Hoodlum Havoc",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Rayman Raving Rabbids",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "RC Revenge Pro",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ready 2 Rumble Boxing: Round 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Rebel Raiders: Operation Nighthawk",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Red Card",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Red Dead Revolver",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Red Faction",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Red Faction II",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Red Ninja End of Honor, The",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Red Star, The",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Remote Control Dandy SF",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Reservoir Dogs",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Resident Evil - Code: Veronica X",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Resident Evil: Dead Aim",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Resident Evil: Gun Survivor 2 Code: Veronica",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Resident Evil: Outbreak",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Resident Evil: Outbreak File 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Resident Evil 4",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Return To Castle Wolfenstein",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Rez",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Richard Burns Rally",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "Ridge Racer V",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Ring of Red",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Rise of the Kasai",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Rise to Honor (Jet Li: Rise to Honour)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "RLH: Run Like Hell - Hunt or Be Hunted",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Road Trip Adventure",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Robots",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Robotech: Battlecry",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Robotech: Invasion",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Rocky",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Rocky Legends",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Robin Hood: Defender of the Crown",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Rogue Galaxy",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Romance of the Three Kingdoms VII",
+    "euro": "Not Available",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Romance of the Three Kingdoms VIII",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Romance of the Three Kingdoms IX",
+    "euro": "Not Available",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Romance of the Three Kingdoms X",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Romancing SaGa",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "RPG Maker II",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "RTL Skispringen 2003",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Rugby",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Rugby 2004",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Rugby 2005",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Rugby 06",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Rugby 08",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Rule of Rose",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Rumble Fish, The",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Rumble Racing",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Rumble Roses",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Rurouni Kenshin - Enjou! Kyoto Rinne",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Rygar: The Legendary Adventure",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "S.L.A.I. Steel Lancer Arena International",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "S.C.A.R Squadra Corse Alfa Romeo",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Sakura Taisen: Atsuki Chishio ni",
+    "euro": "?",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sakura Taisen 3: Paris wa Moeteiru ka",
+    "euro": "?",
+    "american": "?",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Sakura Wars: So Long, My Love",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Samurai Aces",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Samurai Champloo: Sidetracked",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Jack: The Shadow of Aku",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Shodown Anthology",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "SAMURAI SHODOWN VI",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Warriors",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Warriors Extreme legends",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Warriors 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Warriors 2 Extreme legends",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Warriors 2 Empires",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Samurai Western",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "SAS Anti-terror Force",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Saint Seiya: The Hades",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Saint Seiya: The Sanctuary",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Scaler",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Scarface: The World Is Yours",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Scooby-Doo! First Frights",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Scooby-Doo! and the Spooky Swamp",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Scooby-Doo! Night of 100 Frights",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Scooby-Doo! Unmasked",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Scooby-Doo! Mystery Mayhem",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Scorpion King: Rise of the Akkadian, The",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Second Sight",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Secret Agent Clank",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Secret Saturdays: Beasts of the 5th Sun, The",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Secret Service",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Seek & Destroy",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 1: Phantasy Star Generation: 1",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 2: Monaco GP",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 3: Fantasy Zone",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 4: Space Harrier",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 5: Golden Axe",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 6: Ichini no Tant-R to Bonanza Bros.",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 7: Columns",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 8: Virtua Racing FlatOut",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 9: Gain Ground",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 10: After Burner II",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 11: Hokuto No Ken",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 12: Puyo Puyo Tsuu Perfect Set",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 13: OutRun",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 14: Alien Syndrome",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 15: Decathlete Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 16: Virtua Fighter 2",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 17: Phantasy Star Generation: 2",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 18: Dragon Force",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 19: Fighting Vipers",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 20: Space Harrier II ~Space Harrier Complete Collection~",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 21: SDI & Quartet: Sega System 16 Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 22: Advanced Daisenryaku: Deutsch Dengeki Sakusen",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 23: Sega Memorial Selection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 24: Last Bronx",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 25: Gunstar Heroes Treasurebox",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 26: Dynamite Deka",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 27: Panzer Dragoon",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 28: Tetris Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 29: Monster World Complete Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 30: Galaxy Force II ~ Special Extended Edition",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 31: Cyber Troopers Virtual-On",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 32: Phantasy Star Complete Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Classics Collection",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Sega Genesis Collection",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Sega Rally Championship 95",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sega Rally 2006",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sega Soccer Slam",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Seigi no Mikata (正義の味方)",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Sengoku Anthology",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Sengoku Basara X Cross",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Serious Sam: Next Encounter",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Seven Samurai 20XX (20XX 七人の侍)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shadow Man: 2econd Coming",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Shadow Hearts",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Shadow Hearts: Covenant",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Shadow Hearts: From the New World",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shadow of Destiny",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Shadow of Rome",
+    "euro": "Major Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shadow of the Colossus",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shadow the Hedgehog",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Shadow Tower: Abyss",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Shaun Palmer's Pro Snowboarder",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Shaun White Snowboarding",
+    "euro": "Major Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Shield: The Game, The",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shin Megami Tensei: Devil Summoner",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shin Megami Tensei: Devil Summoner 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shin Megami Tensei: Digital Devil Saga",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Shin Megami Tensei: Digital Devil Saga 2",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Shin Megami Tensei: Nocturne (Shin Megami Tensei: Lucifer's Call)\nShin Megami Tensei III: Nocturne (Shin Megami Tensei III: Nocturne Maniax)",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "International versions are unplayable after the player gets to the second ladder in the Assembly of Nihilo, where the prompt for climbing down the ladder never shows up. Otherwise, the game also suffers from minor flickering that doesn't affect the experience (English translated version of \"Maniax Chronicle Edition\" freezes after a few minutes of play).",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Shin Megami Tensei: Persona 3 FES",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Shin Megami Tensei: Persona 4",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shining Force EXE",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shining Force Neo",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shining Tears",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shining Wind",
+    "euro": "?",
+    "american": "?",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Shinobi",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Shinobido Takumi",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Shinobido: Way of the Ninja",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "Shinseiki GPX Cyber Formula: Road to the Infinity 2",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Shinseiki GPX Cyber Formula: Road to the Infinity 4",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Shox",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Shrek 2",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Silent Hill 2 [Director's Cut]",
+    "euro": "Minor Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Silent Hill 3",
+    "euro": "Playable",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Silent Hill 4: The Room",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Silent Hill Origins",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Silent Hill Shattered Memories",
+    "euro": "Minor Issues",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Silent Scope",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Silent Scope 2: Dark Silhouette (Silent Scope 2: Fatal Judgement)",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Silent Scope 3",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Silpheed",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Simpsons Game, The",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Simpsons: Hit & Run, The",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Simpsons: Road Rage, The",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Sims 2, The",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Sims 2: Castaway, The",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Sims 2: Pets, The",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
+    "game": "Sims: Bustin' Out, The",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu",
+    "euro": "?",
+    "american": "?",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Simple 2000 Series Vol. 113: The Tairyou Jigoku",
+    "euro": "?",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Simple 2000 Series Vol. 114 - The Onna Okappichi Torimonochou - Oharu-chan GoGoGo!",
+    "euro": "?",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Siratsu tankenbu (Kor name:시라츄 탐험부)",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Siren (Forbidden Siren)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Playable"
+  },
+  {
+    "game": "Siren 2 (Forbidden Siren 2)",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Sitting ducks",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "SkyGunner",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Sky Odyssey",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Sly Cooper and the Thievius Raccoonus (Sly Raccoon)",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Sly 2: Band of Thieves",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Sly 3: Honor Among Thieves",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Smash Court Tennis Pro Tournament 2",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Smuggler's Run",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Smuggler's Run 2",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Sniper 2, The",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "SNK vs Capcom: SVC Chaos",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Snoopy vs The Red Baron",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "SOCOM : U.S Navy SEALs",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "SOCOM II: U.S. Navy SEALs",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Solider of Fortune: Gold Edition",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Sonic Gems Collection",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Sonic Heroes",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Sonic Mega Collection Plus",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Sonic Riders",
+    "euro": "Available",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Sonic Riders: Zero Gravity",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Sonic Unleashed",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "SoulCalibur II",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "SoulCalibur III",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Soul Nomad & the World Eaters",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Space Channel 5",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Space Channel 5: Part 2",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Space Invaders Anniversary",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Space Rebellion",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Speed Kings",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Speed Racer",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Sphinx And The Cursed Mummy",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Spider-Man: The Movie",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Spider-Man 2",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Spider-Man 3",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Spider-Man: Friend or Foe",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Spider-Man: Web of Shadows",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Splashdown",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Splashdown: Rides Gone Wild",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "SpongeBob SquarePants Movie, The",
+    "euro": "Available",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "SpongeBob SquarePants: Atlantis Squarepantis",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "SpongeBob SquarePants: Battle for Bikini Bottom",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "SpongeBob SquarePants: Creature From the Krust Krab",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "SpongeBob SquarePants: Lights, Camera, Pants!",
+    "euro": "Minor Issues",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "SpongeBob SquarePants: Revenge of the Flying Dutchman",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Spy Fiction",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Spyro: A Hero's Tail",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Spyro The Eternal Night",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Spyro: A New Beginning",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Spyro: Enter The Dragonfly",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Spyro Dawn of The Dragon",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Spy vs. Spy",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "SSX",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "SSX 3",
+    "euro": "Unplayable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "SSX On Tour",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "SSX Tricky",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Star Ocean: Till the End of Time",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Starsky & Hutch",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Star Trek: Conquest",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Star Trek: Encounters",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Star Trek: Shattered Universe",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Star Wars: Battlefront",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Star Wars: Battlefront 2",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Star Wars: Bounty Hunter",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Star Wars: The Clone Wars",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Use config = www.psx-place.com/threads/research-ps2-emulator-configuration-on-ps4.16131/page-168#post-336033",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Star Wars: Jedi Starfighter",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Star Wars: Racer Revenge",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Star Wars: Episode 3 - Revenge of the Sith",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Star Wars: Super Bombad Racing",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Star Wars: The Force Unleashed",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Steambot Chronicles",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Steel Dragon EX",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Stella Deus: The Gate of Eternity",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Stolen",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Street Fighter III Third Strike",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Street Fighter Alpha Anthology",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Street Fighter Anniversary Collection",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Street Fighter EX3",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Street Hoops",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Stretch Panic (Freak Out)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Strike Force Bowling",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Stuart Little 3: Big Photo Adventure",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Stunt GP",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Stuntman",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Stuntman 2: Ignition",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Sub Rebellion",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Suikoden III",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Suikoden IV",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Suikoden V",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Suffering, The",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Suffering 2: Ties that Bind, The",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Summer Heat Beach Volleyball",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Summoner",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Summoner 2",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Sunsoft Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Super Bust-a-Move",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Super Bust-a-Move 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Super Dragon Ball Z",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Super Farm",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Superman: Shadow of Apokolips",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Super Monkey Ball Adventure",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Super Monkey Ball DELUXE",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Super Robot Wars Z",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Surf's up",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "SWAT: Global Strike Team",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Sword of Etheria",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Swords of Destiny",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Sword of Samurai",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Syberia",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Syberia II",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Syphon Filter: Dark Mirror",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Syphon Filter: Logan's Shadow",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Syphon Filter: The Omega Strain",
+    "euro": "Major Issues",
+    "american": "?",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Sled Storm",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Taito Legends",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Taito Legends 2",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Tak and the Power of Juju",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Tales Of Destiny Directors Cut",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Tales of Destiny 2",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Tales of Legendia",
+    "euro": "Not Available",
+    "american": "Unplayable",
+    "description": "Available"
+  },
+  {
+    "game": "Tales of Rebirth",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Tales of the Abyss",
+    "euro": "Not Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Taz Wanted",
+    "euro": "Major Issues",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Teenage Mutant Ninja Turtles (2003)",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Teenage Mutant Ninja Turtles: Mutant Melee",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Tekken 4",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Tekken 5",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tekken Tag Tournament",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Playable"
+  },
+  {
+    "game": "Tenchu: Wrath of Heaven",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Tenchu: Fatal Shadows",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Terminator 3: Rise Of The Machines",
+    "euro": "Not Available",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Terminator 3: The Redemption",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Test Drive (AKA TD Overdrive: The Brotherhood of Speed)",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Test Drive: Eve of Destruction (Driven to Destruction)",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Test Drive Unlimited",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Tetris Worlds",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Major Issues"
+  },
+  {
+    "game": "SuperLite 2000 Vol. 13: Tetris: Kiwame Michi",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Tetsujin 28-gō",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "The Battle of Yu Yu Hakusho:Shitō! Ankoku Bujutsukai 120% Full Power",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "The Godfather",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "The Italian Job",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "The Suffering",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "The Terminator: Dawn of Fate",
+    "euro": "Not Available",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "The Thing",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Thrillville",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Thrillville: Off the Rails",
+    "euro": "Available",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Thunder Force VI",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Tiger Woods PGA Tour 2004",
+    "euro": "Available",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Tiger Woods PGA Tour 2005",
+    "euro": "Available",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "Time Crisis 2",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "Available"
+  },
+  {
+    "game": "Time Crisis 3",
+    "euro": "Playable",
+    "american": "Unplayable",
+    "description": "Available"
+  },
+  {
+    "game": "TimeSplitters",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "TimeSplitters 2",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "TimeSplitters: Future Perfect",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Tiny Toon Adventures: Defenders of the Universe",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "TMNT",
+    "euro": "Available",
+    "american": "Minor Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "TNA iMPACT!",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Tokimeki Memorial 3 ~Yakusoku no Ano Basho de~",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "TOCA Race Driver\nDTM Race Driver\nPro Race Driver\nV8 Supercars: Race Driver",
+    "euro": "Minor Issues",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "TOCA Race Driver 2: The Ultimate Racing Simulator\nDTM Race Driver 2\nV8 Supercars Australia 2",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "TOCA Race Driver 3\nDTM Race Driver 3\nV8 Supercars: Race Driver 3",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Tokobot Plus - Mysteries of the Karakuri",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Tokyo Xtreme Racer: Zero",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tokyo Xtreme Racer 3",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tokyo Xtreme Racer: Drift 2",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Tom & Jerry in War of the Whiskers",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Tomb Raider: Anniversary",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Tomb Raider: Legend",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "PS2 Classics"
+  },
+  {
+    "game": "Tomb Raider: The Angel of Darkness",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Tomb Raider: Underworld",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Major Issues"
+  },
+  {
+    "game": "Tom Clancy's Ghost Recon 2",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Tom Clancy's Rainbow Six 3",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Tom Clancy's Splinter Cell",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Playable"
+  },
+  {
+    "game": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Playable"
+  },
+  {
+    "game": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Tom Clancy's Splinter Cell: Double Agent",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Tony Hawk's American Wasteland",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Tony Hawk's Pro Skater 3",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Tony Hawk's Pro Skater 4",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Unplayable"
+  },
+  {
+    "game": "Tony Hawk's Underground",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tony Hawk's Underground 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tony Hawk's Proving Ground",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tony Hawk's Project 8",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Torrente 3 - The Protector",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Total Overdose: A Gunslinger's Tale in Mexico",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Total Immersion Racing",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Tourist Trophy",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Available"
+  },
+  {
+    "game": "Transformers",
+    "euro": "Available",
+    "american": "Unplayable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Transformers: The Game",
+    "euro": "Minor Issues",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Transformers: Revenge of the Fallen",
+    "euro": "Unplayable",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Trapt",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tribes: Aerial Assault",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Triggerheart Excelica Enhanced",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Trigger Man",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "True Crime: New York City",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "True Crime: Streets of LA",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Tsugunai Atonement",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Turok: Evolution",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Twisted Metal: Black",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Twisted Metal: Head-On",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ty the Tazmanian Tiger",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ty the Tasmanian Tiger 2: Bush Rescue",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ty the Tasmanian Tiger 3: Night of the Quinkan",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "UEFA Champions League 2004-2005",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "UEFA Champions League 2006-2007",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "UEFA Champions League Season 2001-2002",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "UEFA Euro 2004",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "UEFA Euro 2008",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Ultimate Board Game Collection",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Ultimate Spider-Man",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Ultraman Fighting Evolution 3",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Ultraman Fighting Evolution Rebirth",
+    "euro": "?",
+    "american": "?",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Unlimited Saga",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Unreal Tournament",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Under the skin",
+    "euro": "?",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Urban Chaos: Riot Response",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Urban Reign",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Urbz: Sims in the City, The",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "V-Rally III (V-Rally 3)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Valkyrie Profile 2 - Silmeria",
+    "euro": "Major Issues",
+    "american": "Major Issues",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Vampire: Darkstalkers Collection",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Vampire Night",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Van Helsing",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Vexx",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Victorious Boxers 2",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Vietcong Purple haze",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Viewtiful Joe",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Viewtiful Joe 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Virtua Cop: Elite Edition",
+    "euro": "Playable",
+    "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Virtua Fighter 4",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "Virtua Fighter 4: Evolution",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Virtua Tennis 2 (Sega Sports Tennis)",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Virtua Quest",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Virtual-On: Marz",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Wacky Races: Mad Motors",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Wacky Races starring Dastardly & Muttley",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "WALL·E",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Wallace & Gromit - The Curse of the Were-Rabbit",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Wallace & Gromit in Project Zoo",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Walt Disney's The Jungle Book: Groove Party",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "War of the Monsters",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "The Warriors",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "Not Available"
+  },
+  {
+    "game": "Warriors of Might & Magic",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Warriors Orochi",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Warriors Orochi 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Warship Gunner: Naval Ops",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Warship Gunner 2",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Way of the Samurai [Samurai (侍)]",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Way of the Samurai 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "We Love Katamari",
+    "euro": "Playable",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Whiplash",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Wheel of Fortune",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Wild Arms 3",
+    "euro": "PS2 Classics",
+    "american": "PS2 Classics",
+    "description": "?"
+  },
+  {
+    "game": "Wild Arms 4",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Wild Arms 5",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Wild Arms Alter Code : F",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Wild Wild Racing",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "WinBack: Covert Operations (Operation WinBack)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Winx Club",
+    "euro": "Unplayable",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Wipeout Fusion (wipEout fusion)",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Wipeout Pulse",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Without Warning",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Wizardry: Tale of the Forsaken Land",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Women's Volleyball Championship",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "?"
+  },
+  {
+    "game": "Woody Woodpecker: Escape from Buzz Buzzard Park",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "World Championship Poker",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "World Heroes Anthology",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "World Rally Championship",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Available"
+  },
+  {
+    "game": "Worms: Armageddon",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "?"
+  },
+  {
+    "game": "Worms Forts: Under Siege",
+    "euro": "Playable",
+    "american": "Available",
+    "description": "?"
+  },
+  {
+    "game": "Worms 3D",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Worms 4 Mayhem",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Wrath Unleashed",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "WRC 3",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "WRC 4",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "WRC II Extreme",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "WRC: Rally Evolved",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Wreckless: The Yakuza Missions",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Wrestle Kingdom 2: Pro Wrestling Sekai Taisen",
+    "euro": "?",
+    "american": "?",
+    "description": "Minor Issues"
+  },
+  {
+    "game": "WWE All Stars",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "WWE Crush Hour",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "WWE Smackdown! Here Comes The Pain",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "WWE Smackdown! Shut Your Mouth",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "WWE SmackDown! vs. Raw",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "WWE SmackDown! vs. Raw 2006",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "WWE SmackDown vs. Raw 2007",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "WWE SmackDown vs. Raw 2008",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "WWE SmackDown vs. Raw 2009",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "WWE SmackDown! vs. Raw 2010",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "WWE SmackDown! vs. Raw 2011",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "The X-Files: Resist or Serve",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "XGRA: Extreme-G Racing Association",
+    "euro": "?",
+    "american": "Major Issues",
+    "description": "Not Available"
+  },
+  {
+    "game": "X-Men Legends",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "X-Men Legends II: Rise of Apocalypse",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "X-Men Origins: Wolverine",
+    "euro": "Major Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "X-Men: Next Dimension",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "X-Men: The Official Game",
+    "euro": "Minor Issues",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "X-Men 2: Wolverine's Revenge",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "X-treme Express",
+    "euro": "Minor Issues",
+    "american": "Not Available",
+    "description": "?"
+  },
+  {
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Xenosaga Episode II: Jenseits von Gut und Böse",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Xenosaga Episode III: Also Sprach Zarathustra",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "XII Stag",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "XIII",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Yakuza",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "Playable"
+  },
+  {
+    "game": "Yakuza 2",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Yanya Caballista: City Skater",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "?"
+  },
+  {
+    "game": "Ys V: Kefin, Lost Kingdom of Sand",
+    "euro": "?",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Ys VI: The Ark of Napishtim",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Yu-Gi-Oh!: Capsule Monster Coliseum",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Yu-Gi-Oh! Duelists of The Roses",
+    "euro": "Unplayable",
+    "american": "Playable",
+    "description": "Available"
+  },
+  {
+    "game": "Yu-Gi-Oh! GX: Tag Force Evolution",
+    "euro": "Unplayable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Yu-Gi-Oh! GX: The Beginning of Destiny",
+    "euro": "Playable",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Yu Yu Hakusho Forever",
+    "euro": "?",
+    "american": "?",
+    "description": "Unplayable"
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Zapper: One Wicked Cricket",
+    "euro": "Available",
+    "american": "Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Zatch Bell!: Mamodo Battles",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Zatch Bell: Mamodo Fury",
+    "euro": "?",
+    "american": "Minor Issues",
+    "description": "?"
+  },
+  {
+    "game": "Zathura",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Zill O'll Infinite",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Zoids Infinity",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Zoids Struggle",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Zoids Tactics",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Zoku Segare Ijiri",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "Zombie Hunters 2",
+    "euro": "Playable",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Zone of the Enders",
+    "euro": "Minor Issues",
+    "american": "?",
+    "description": "?"
+  },
+  {
+    "game": "Zone of the Enders: The 2nd Runner",
+    "euro": "Playable",
+    "american": "?",
+    "description": "Playable"
+  },
+  {
+    "game": "Zombie Zone",
+    "euro": "?",
+    "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "Zoo Puzzle",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "ZooCube",
+    "euro": "Available",
+    "american": "Not Available",
+    "description": "Not Available"
+  },
+  {
+    "game": "Zwei!!",
+    "euro": "Not Available",
+    "american": "Not Available",
+    "description": "Available"
+  },
+  {
+    "game": "ve\nReverse Engineering\n\n\nReverse Engineering\t\nBootprocess  ·  BootLogo  ·  DataBases  ·  Disc Identification/Serialization Data  ·  Files on the PS4  ·  IOCTL  ·  Libraries  ·  Partitions  ·  Syscalls  ·  Kernel Patches  ·  sealedkey / pfsSKKey  ·  VTRM  ·  Bugs & Vulnerabilities  ·  Vulnerabilities  ·  SBL Kernel module  ·  Kernel Devices  ·  Registry  ·  Build Strings  ·  QA Flagging  ·  Strings  ·  Hardware Info\n\t\n\n\nDumps & Strings\t\nDumps\n\t\nFlash-Bridge  ·  Flash-Hub  ·  Flash-Main\n\n\n\nStrings\n\t\nFlash-Bridge/strings  ·  Flash-Hub/strings  ·  Flash-Main/strings\n\n\nCommunication\t\nUSB\n\t\nPS4cam-USB  ·  DS4-USB\n\n\n\nBluetooth\n\t\nDS4-BT  ·  Audio-BT\n\n\n\nWifi/LAN\n\t\nOnline Connections\n\n\nKeys, Commands & Digests\t\nActivation AFV  ·  Activation ACF  ·  Bruteforcing  ·  Crypto / DRM  ·  Keys  ·  Fail Keys   ·  Digests  ·  Magics  ·  SMU Hashes  ·  --ee-hook  ·  SoftWareUpdater  ·  DualShock 4 HID Commands\n\n\nEmulation\t\nGeneral\n\t\nPS1 Emulation  ·  PS2 Emulation  ·  PSP Emulation  ·  PS3 Emulation  ·  Sega Saturn Emulation\n\n\n\nCompatibility Lists\n\t\nPS1 Classics Emulator Compatibility List  ·  PS2 Classics Emulator Compatibility List  ·  PSP Emulator Compatibility List  ·  PS3 Emulator Compatibility List  ·  Sega Saturn Emulator Compatibility List\n\n\n\nConfiguration Settings\n\t\nOfficial Configuration Files  ·  Custom Configuration Files\n\n\nSystem Modules\t\nDipsw\n\t\nlibSceDipsw  ·  libSceLibcInternal  ·  libkernel  ·  libSceNpTrophy  ·  libSceRegMgr  ·  libSceRemoteplay  ·  libSceRtc  ·  libSceSaveData",
+    "euro": "",
+    "american": "Bootprocess  ·  BootLogo  ·  DataBases  ·  Disc Identification/Serialization Data  ·  Files on the PS4  ·  IOCTL  ·  Libraries  ·  Partitions  ·  Syscalls  ·  Kernel Patches  ·  sealedkey / pfsSKKey  ·  VTRM  ·  Bugs & Vulnerabilities  ·  Vulnerabilities  ·  SBL Kernel module  ·  Kernel Devices  ·  Registry  ·  Build Strings  ·  QA Flagging  ·  Strings  ·  Hardware Info",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Bootprocess  ·  BootLogo  ·  DataBases  ·  Disc Identification/Serialization Data  ·  Files on the PS4  ·  IOCTL  ·  Libraries  ·  Partitions  ·  Syscalls  ·  Kernel Patches  ·  sealedkey / pfsSKKey  ·  VTRM  ·  Bugs & Vulnerabilities  ·  Vulnerabilities  ·  SBL Kernel module  ·  Kernel Devices  ·  Registry  ·  Build Strings  ·  QA Flagging  ·  Strings  ·  Hardware Info",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Dumps\n\t\nFlash-Bridge  ·  Flash-Hub  ·  Flash-Main\n\n\n\nStrings\n\t\nFlash-Bridge/strings  ·  Flash-Hub/strings  ·  Flash-Main/strings",
+    "euro": "Flash-Bridge  ·  Flash-Hub  ·  Flash-Main",
+    "american": "",
+    "description": "Flash-Bridge/strings  ·  Flash-Hub/strings  ·  Flash-Main/strings"
+  },
+  {
+    "game": "Flash-Bridge  ·  Flash-Hub  ·  Flash-Main",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Flash-Bridge/strings  ·  Flash-Hub/strings  ·  Flash-Main/strings",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "USB\n\t\nPS4cam-USB  ·  DS4-USB\n\n\n\nBluetooth\n\t\nDS4-BT  ·  Audio-BT\n\n\n\nWifi/LAN\n\t\nOnline Connections",
+    "euro": "PS4cam-USB  ·  DS4-USB",
+    "american": "",
+    "description": "DS4-BT  ·  Audio-BT"
+  },
+  {
+    "game": "PS4cam-USB  ·  DS4-USB",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "DS4-BT  ·  Audio-BT",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Online Connections",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Activation AFV  ·  Activation ACF  ·  Bruteforcing  ·  Crypto / DRM  ·  Keys  ·  Fail Keys   ·  Digests  ·  Magics  ·  SMU Hashes  ·  --ee-hook  ·  SoftWareUpdater  ·  DualShock 4 HID Commands",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "General\n\t\nPS1 Emulation  ·  PS2 Emulation  ·  PSP Emulation  ·  PS3 Emulation  ·  Sega Saturn Emulation\n\n\n\nCompatibility Lists\n\t\nPS1 Classics Emulator Compatibility List  ·  PS2 Classics Emulator Compatibility List  ·  PSP Emulator Compatibility List  ·  PS3 Emulator Compatibility List  ·  Sega Saturn Emulator Compatibility List\n\n\n\nConfiguration Settings\n\t\nOfficial Configuration Files  ·  Custom Configuration Files",
+    "euro": "PS1 Emulation  ·  PS2 Emulation  ·  PSP Emulation  ·  PS3 Emulation  ·  Sega Saturn Emulation",
+    "american": "",
+    "description": "PS1 Classics Emulator Compatibility List  ·  PS2 Classics Emulator Compatibility List  ·  PSP Emulator Compatibility List  ·  PS3 Emulator Compatibility List  ·  Sega Saturn Emulator Compatibility List"
+  },
+  {
+    "game": "PS1 Emulation  ·  PS2 Emulation  ·  PSP Emulation  ·  PS3 Emulation  ·  Sega Saturn Emulation",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "PS1 Classics Emulator Compatibility List  ·  PS2 Classics Emulator Compatibility List  ·  PSP Emulator Compatibility List  ·  PS3 Emulator Compatibility List  ·  Sega Saturn Emulator Compatibility List",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Official Configuration Files  ·  Custom Configuration Files",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "",
+    "euro": "",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "Dipsw\n\t\nlibSceDipsw  ·  libSceLibcInternal  ·  libkernel  ·  libSceNpTrophy  ·  libSceRegMgr  ·  libSceRemoteplay  ·  libSceRtc  ·  libSceSaveData",
+    "euro": "libSceDipsw  ·  libSceLibcInternal  ·  libkernel  ·  libSceNpTrophy  ·  libSceRegMgr  ·  libSceRemoteplay  ·  libSceRtc  ·  libSceSaveData",
+    "american": "",
+    "description": ""
+  },
+  {
+    "game": "libSceDipsw  ·  libSceLibcInternal  ·  libkernel  ·  libSceNpTrophy  ·  libSceRegMgr  ·  libSceRemoteplay  ·  libSceRtc  ·  libSceSaveData",
+    "euro": "",
+    "american": "",
+    "description": ""
+  }
+]

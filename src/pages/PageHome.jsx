@@ -24,10 +24,7 @@ export default function PageHome() {
     }, 1000);
   };
 
-  const filteredData = data ? data.filter(item =>
-    item.title.toLowerCase().includes(searchTerm.toLowerCase())
-  ) : [];
-
+  const filteredData = data ? data.filter(item => item.title.toLowerCase().includes(searchTerm.toLowerCase())) : [];
   const currentItems = filteredData.slice(0, currentPage * itemsPerPage);
 
   return (

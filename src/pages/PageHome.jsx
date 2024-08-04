@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from "react-router-dom";
+import Fuse from 'fuse.js';
 import Card from '../components/card';
 import dataArchive from '../data/data-ps2.json';
+import tableData from '../data/data-list.json';
 import Loading from '../components/loading';
 import InfiniteScroll from 'react-infinite-scroll-component';
 
@@ -27,6 +29,16 @@ export default function PageHome() {
   const filteredData = data ? data.filter(item => item.title.toLowerCase().includes(searchTerm.toLowerCase())) : [];
   const currentItems = filteredData.slice(0, currentPage * itemsPerPage);
 
+  const fuse = new Fuse(tableData, {
+    keys: ['game'],
+    threshold: 0.2, // Ajuste a sensibilidade da correspondência (0.0 a 1.0);
+  });
+
+  const getGameInfo = (title) => {
+    const result = fuse.search(title);
+    return result.length > 0 ? result[0].item : null;
+  };
+
   return (
     <div className='bg-sky-800 w-screen h-full'>
       <div className="px-4 pt-4 w-full">
@@ -49,7 +61,7 @@ export default function PageHome() {
       <div className='w-full px-2 pt-2'>
         <div className='bg-black h-1 rounded-sm'></div>
       </div>
-      <div >
+      <div>
         <InfiniteScroll
           dataLength={currentItems.length}
           next={handleScroll}
@@ -61,9 +73,20 @@ export default function PageHome() {
           }
           endMessage={<p style={{ textAlign: 'center' }}>Não há mais itens para carregar.</p>} className="w-full h-full grid grid-cols-3 p-2 gap-2"
         >
-          {currentItems.map((item, index) => (
-            <Card key={index} title={item.title} link={item.link} image={item.imgSrc} />
-          ))}
+          {currentItems.map((item, index) => {
+            const gameInfo = getGameInfo(item.title);
+            return (
+              <Card
+                key={index}
+                title={item.title}
+                link={item.link}
+                image={item.imgSrc}
+                euro={gameInfo?.euro}
+                american={gameInfo?.american}
+                description={gameInfo?.description}
+              />
+            );
+          })}
         </InfiniteScroll>
       </div>
     </div>

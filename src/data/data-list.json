@@ -14,37 +14,37 @@
   {
     "game": "{{playable}}",
     "euro": "Playable",
-    "american": "The Game works perfect without any noticeable errors.\nIt works exactly like when you play it on real PS2 Hardware.",
+    "american": "The game works perfect, lacking any noticeable errors.\nIt runs in a manner indistinguishable from real PS2 hardware.",
     "description": ""
   },
   {
     "game": "{{minorissues}}",
     "euro": "Minor Issues",
-    "american": "The Game has some small issues like small flickering, frame drops or glitching graphics.\nBut the Game itself works fine and you are able to complete the Game successfully without any huge disadvantages for your in-game-progress.",
+    "american": "The game has some small issues like small flickering, frame drops or glitching graphics.\nBut the game itself works fine and you are able to complete the game successfully without any huge disadvantages for your in-game-progress.",
     "description": ""
   },
   {
     "game": "{{majorissues}}",
     "euro": "Major Issues",
-    "american": "The Game has several stronger issues like stronger flickering, massive frame drops and not only the graphics are glitching, but the Game itself too.\nIt works, but it will be a pain for both of your Gaming experience, as probably for your PS4 itself.",
+    "american": "The game has several impactful issues like stronger flickering, massive frame drops, glitching graphics and/or gameplay.\nEssentially, it works, but it will probably be a pain for both your gaming experience, and your PS4.",
     "description": ""
   },
   {
     "game": "{{unplayable}}",
     "euro": "Unplayable",
-    "american": "The Game crashes after some in-game-progress (randomly), you can't change Discs when prompted, the screen keeps black or you can't even start the Game at all.\nYou can't complete the Game successfully to the end even when both the Graphics and Framerates working fine and/or the PS4 will freeze/shutdown by itself.",
+    "american": "The game crashes after some in-game-progress (randomly). You can't change Discs when prompted, the screen keeps turning black or you can't even start the game at all.\nYou can't complete the game successfully to the end even when both graphics and framerates work fine and/or the PS4 will freeze/shutdown by itself.",
     "description": ""
   },
   {
     "game": "{{notavailable}}",
     "euro": "Not Available",
-    "american": "Only for those Game Titles, which weren't released in certain Regions (for example: Games for the Japanese Market [NTSC-J], which didn't see a \"Western Release\").",
+    "american": "Only for those game titles, which weren't released in certain regions (for example: Games for the Japanese Market [NTSC-J], which didn't see a \"Western Release\").",
     "description": ""
   },
   {
     "game": "{{official}}",
     "euro": "PS2 Classics",
-    "american": "The Game has been released as a official \"PS2 Classics on PS4\" Title from Sony available at the PlayStation Store.",
+    "american": "The game has been released as an official \"PS2 Classics on PS4\" title from Sony available at the PlayStation Store.",
     "description": ""
   },
   {
@@ -945,17 +945,17 @@
     "game": "Burnout 2: Point of Impact",
     "euro": "Playable",
     "american": "Playable",
-    "description": "?"
+    "description": "Unplayable"
   },
   {
     "game": "Burnout 3: Takedown",
     "euro": "Minor Issues",
     "american": "Minor Issues",
-    "description": "?"
+    "description": "Minor Issues"
   },
   {
     "game": "Burnout Dominator",
-    "euro": "?",
+    "euro": "Unplayable",
     "american": "Unplayable",
     "description": "?"
   },
@@ -963,13 +963,19 @@
     "game": "Burnout Revenge",
     "euro": "Minor Issues",
     "american": "Minor Issues",
-    "description": "?"
+    "description": "Unplayable"
   },
   {
     "game": "",
     "euro": "",
     "american": "",
     "description": ""
+  },
+  {
+    "game": "Cabela's Dangerous Hunts",
+    "euro": "?",
+    "american": "Playable",
+    "description": "Not Available"
   },
   {
     "game": "Cat in The Hat",
@@ -1287,7 +1293,7 @@
     "game": "Crash Twinsanity",
     "euro": "Playable",
     "american": "Playable",
-    "description": "?"
+    "description": "Unplayable"
   },
   {
     "game": "Crash Tag Team Racing",
@@ -1297,9 +1303,9 @@
   },
   {
     "game": "Crazy Taxi",
-    "euro": "Available",
+    "euro": "Playable",
     "american": "Playable",
-    "description": "Available"
+    "description": "Minor Issues"
   },
   {
     "game": "Crime Life: Gang Wars",
@@ -1485,7 +1491,7 @@
     "game": "Def Jam - Vendetta",
     "euro": "Playable",
     "american": "Playable",
-    "description": "?"
+    "description": "Major Issues"
   },
   {
     "game": "Delta Force Black Hawk Down",
@@ -1809,7 +1815,7 @@
     "game": "DreamWorks Madagascar",
     "euro": "Minor Issues",
     "american": "?",
-    "description": "?"
+    "description": "Major Issues"
   },
   {
     "game": "DreamWorks Madagascar: Escape 2 Africa (Madagascar: Escape 2 Africa)",
@@ -1837,8 +1843,8 @@
   },
   {
     "game": "DreamWorks Bee Movie Game",
-    "euro": "Minor Issues",
-    "american": "Minor Issues",
+    "euro": "Playable",
+    "american": "Playable",
     "description": "Not Available"
   },
   {
@@ -3091,8 +3097,14 @@
   },
   {
     "game": "High Heat Major League Baseball 2002",
-    "euro": "?",
+    "euro": "Unplayable",
     "american": "Playable",
+    "description": "?"
+  },
+  {
+    "game": "High Heat Major League Baseball 2003",
+    "euro": "?",
+    "american": "?",
     "description": "?"
   },
   {
@@ -3145,7 +3157,7 @@
   },
   {
     "game": "Hot Wheels: Stunt Track Challenge",
-    "euro": "?",
+    "euro": "Unplayable",
     "american": "Unplayable",
     "description": "?"
   },
@@ -3399,7 +3411,7 @@
     "game": "James Bond 007: Everything or Nothing",
     "euro": "Unplayable",
     "american": "Playable",
-    "description": "Available"
+    "description": "Major Issues"
   },
   {
     "game": "James Bond 007: From Russia with Love",
@@ -3489,7 +3501,7 @@
     "game": "Kaena",
     "euro": "?",
     "american": "?",
-    "description": "?"
+    "description": "Playable"
   },
   {
     "game": "Kamen Rider Blade",
@@ -5348,25 +5360,25 @@
   {
     "game": "Ratchet & Clank",
     "euro": "Major Issues",
-    "american": "Unplayable",
+    "american": "Major Issues",
     "description": "Unplayable"
   },
   {
     "game": "Ratchet & Clank: Going Commando (Ratchet & Clank 2: [Locked and Loaded])",
     "euro": "Unplayable",
-    "american": "Unplayable",
+    "american": "Major Issues",
     "description": "Unplayable"
   },
   {
     "game": "Ratchet & Clank: Up Your Arsenal (Ratchet & Clank 3)",
     "euro": "Unplayable",
-    "american": "Unplayable",
+    "american": "Major Issues",
     "description": "Unplayable"
   },
   {
     "game": "Ratchet: Gladiator (Ratchet: Deadlocked) [Ratchet & Clank 4]",
     "euro": "Unplayable",
-    "american": "Unplayable",
+    "american": "Major Issues",
     "description": "Unplayable"
   },
   {
@@ -5391,7 +5403,7 @@
     "game": "Rayman 2: Revolution",
     "euro": "Playable",
     "american": "?",
-    "description": "?"
+    "description": "Unplayable"
   },
   {
     "game": "Rayman 3: Hoodlum Havoc",
@@ -5827,7 +5839,7 @@
   },
   {
     "game": "Saint Seiya: The Sanctuary",
-    "euro": "Available",
+    "euro": "Unplayable",
     "american": "Not Available",
     "description": "Available"
   },
@@ -6447,7 +6459,7 @@
     "game": "Sims: Bustin' Out, The",
     "euro": "?",
     "american": "Minor Issues",
-    "description": "Not Available"
+    "description": "Unplayable"
   },
   {
     "game": "Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu",
@@ -6795,7 +6807,7 @@
     "game": "SSX",
     "euro": "Minor Issues",
     "american": "Minor Issues",
-    "description": "?"
+    "description": "Unplayable"
   },
   {
     "game": "SSX 3",
@@ -7104,9 +7116,15 @@
     "description": "Playable"
   },
   {
-    "game": "Surf's up",
-    "euro": "Available",
+    "game": "Super Robot Wars OG",
+    "euro": "Not Available",
     "american": "Not Available",
+    "description": "Playable"
+  },
+  {
+    "game": "Surf's up",
+    "euro": "?",
+    "american": "Minor Issues",
     "description": "Not Available"
   },
   {
@@ -7350,6 +7368,12 @@
     "description": "Not Available"
   },
   {
+    "game": "The Powerpuff Girls - Relish Rampage",
+    "euro": "?",
+    "american": "?",
+    "description": "Not Available"
+  },
+  {
     "game": "The Suffering",
     "euro": "Playable",
     "american": "Playable",
@@ -7369,7 +7393,7 @@
   },
   {
     "game": "Thrillville",
-    "euro": "Available",
+    "euro": "Minor Issues",
     "american": "Playable",
     "description": "Not Available"
   },
@@ -7384,6 +7408,12 @@
     "euro": "Not Available",
     "american": "Not Available",
     "description": "Playable"
+  },
+  {
+    "game": "Tiger Woods PGA Tour 2002",
+    "euro": "Available",
+    "american": "Minor Issues",
+    "description": ""
   },
   {
     "game": "Tiger Woods PGA Tour 2004",
@@ -7617,6 +7647,12 @@
     "game": "Total Immersion Racing",
     "euro": "Playable",
     "american": "Playable",
+    "description": "Not Available"
+  },
+  {
+    "game": "Totally Spies! Totally Party",
+    "euro": "?",
+    "american": "?",
     "description": "Not Available"
   },
   {
@@ -8041,8 +8077,8 @@
   },
   {
     "game": "Wild Arms 4",
-    "euro": "?",
-    "american": "Unplayable",
+    "euro": "Playable",
+    "american": "Playable",
     "description": "?"
   },
   {
@@ -8115,7 +8151,7 @@
     "game": "World Championship Poker",
     "euro": "?",
     "american": "Playable",
-    "description": "?"
+    "description": "Not Available"
   },
   {
     "game": "World Heroes Anthology",
@@ -8128,6 +8164,12 @@
     "euro": "Available",
     "american": "Available",
     "description": "Available"
+  },
+  {
+    "game": "World Series of Poker: Tournament of Champions",
+    "euro": "?",
+    "american": "Unplayable",
+    "description": "Not Available"
   },
   {
     "game": "Worms: Armageddon",
@@ -8425,7 +8467,7 @@
   },
   {
     "game": "Zapper: One Wicked Cricket",
-    "euro": "Available",
+    "euro": "Unplayable",
     "american": "Available",
     "description": "Not Available"
   },

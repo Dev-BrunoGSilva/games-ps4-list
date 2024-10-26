@@ -6,11 +6,11 @@ import fs from 'fs';
     const page = await browser.newPage();
     const results = [];
 
-    let currentPage = 1;
-    const maxPages = 1;
+    let currentPage = 0;
+    const maxPages = 193;
 
     while (currentPage <= maxPages) {
-        const url = `https://dlpsgame.com/category/ps4/page/${currentPage}/`;
+        const url = `https://dlpsgame.com/category/ps2/page/${currentPage}/`;
         await page.goto(url);
 
         const searchResultSelector = '.post-title';
@@ -24,6 +24,7 @@ import fs from 'fs';
             const link = await (await titlesNodeList[i].getProperty('href')).jsonValue();
             const imgSrc = await (await imagesNodeList[i].getProperty('src')).jsonValue();
 
+            console.log(`Titulo: ${ title } - ${ link } - ${ imgSrc }`);
             results.push({ title, link, imgSrc });
         }
 
@@ -40,7 +41,7 @@ import fs from 'fs';
         fs.mkdirSync(directory);
     }
 
-    const filePath = `${directory}/data-ps4.json`;
+    const filePath = `${directory}/data-ps2.json`;
 
     fs.writeFile(filePath, jsonData, 'utf8', (err) => {
         if (err) {
